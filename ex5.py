@@ -1,7 +1,7 @@
 my_name = "Giuseppe"
 my_age = 26 # not a lie
 my_height = 185 #cm
-my_weight = 97 #kg
+my_weight = 77 #kg
 my_eyes = "blue"
 my_hair = "blondish"
 

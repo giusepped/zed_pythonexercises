@@ -1,6 +1,6 @@
-from sys import argv
+from sys import argv   #here I am importing MODULES
 
-script, first, second, third = argv
+script, first, second, third = argv  
 
 print "This script is called:", script
 print "Your first variable is:", first

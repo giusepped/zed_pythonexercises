@@ -3,7 +3,7 @@ my_age = 26 # not a lie
 my_height = 185 #cm
 my_weight = 77 #kg
 my_eyes = "blue"
-my_hair = "blondish"
+my_hair = "brown"
 
 print "Let's actually talk about %s." % my_name
 print "He's %d centimeters tall." % my_height
